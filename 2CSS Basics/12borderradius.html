@@ -8,31 +8,36 @@
         .container {
             width: 400px;
             height: 300px;
-            background-color: #5A2A6D; /* Purple background */
+            background-color: #5A2A6D; 
             position: relative;
         }
         .circle {
             width: 100px;
             height: 100px;
-            background-color: #F7E26B; /* Yellow shapes */
-            border-radius: 50%;
+            background-color: #F7E26B; 
+            
             position: absolute;
         }
         .top-circle {
+            width: 100px;
+            height: 100px;
+            
             top: 50px;
             left: 150px;
+            border-top-left-radius: 50px;
+            border-top-right-radius: 50px;
         }
         .bottom-left-half-circle {
             top: 150px;
             left: 50px;
-            border-top-left-radius: 50px;
-            border-top-right-radius: 50px;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
         }
         .bottom-right-half-circle {
             top: 150px;
             left: 250px;
-            border-top-left-radius: 50px;
-            border-top-right-radius: 50px;
+            border-bottom-left-radius: 50px;
+            border-bottom-right-radius: 50px;
         }
     </style>
 </head>
