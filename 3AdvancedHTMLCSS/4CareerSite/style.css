@@ -1,7 +1,10 @@
 
-h3{text-transform: uppercase;}
-p{font-family: Arial, Helvetica, sans-serif;}
-a{font-size: 16px; font-style: italic;}
-body{background-image:url(https://pixabay.com/photos/chef-odor-cook-seasoning-939436/);}
-header{border-style: solid; }
-content{ height: 80%; width: 70%;}
+h3{text-transform: uppercase; background-color: aliceblue;}
+p{font-family: Arial, Helvetica, sans-serif; background-color: aliceblue;}
+a{font-size: 16px; font-style: italic; background-color: aliceblue;}
+body{background-image:url("https://www.publicdomainpictures.net/pictures/590000/velka/restaurant-chef-photo.jpg");}
+header{border-style: solid; background-color: aliceblue;}
+content{ height: 80%; width: 70%; background-color: aliceblue;}
+li{background-color: aliceblue;}
+h4{background-color: aliceblue;}
+h1{background-color: aliceblue;}
