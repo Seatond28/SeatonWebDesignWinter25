@@ -4,8 +4,9 @@ p{font-family: Arial, Helvetica, sans-serif; background-color: aliceblue;}
 a{font-size: 16px; font-style: italic; background-color: aliceblue;}
 body{background-image:url("https://www.publicdomainpictures.net/pictures/590000/velka/restaurant-chef-photo.jpg");}
 header{border-style: solid; background-color: aliceblue;}
-content{ height: 80%; width: 70%; background-color: aliceblue;}
+main{ height: 80%; width: 70%; background-color: aliceblue;}
 li{background-color: aliceblue;}
 h4{background-color: aliceblue;}
 h1{background-color: aliceblue;}
 .job-title{font-weight: bold; color: maroon;}
+footer{background-color: aliceblue;}
