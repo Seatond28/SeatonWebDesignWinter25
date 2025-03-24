@@ -1,0 +1,29 @@
+
+th{font-size: 22px;
+font-weight: bolder;
+}
+table td {
+   color: white; 
+    
+}
+
+.renaissance{
+    background-color:DarkCyan;
+    font-weight: bolder;
+    
+}
+
+.impression{
+    background-color:MediumAquaMarine ;
+    font-weight: bolder;
+}
+
+.cubism{
+    background-color:DarkSalmon ;
+    font-weight: bolder;
+}
+
+.surrealism{
+    background-color:PaleGoldenRod;
+   font-weight: bolder;
+}
