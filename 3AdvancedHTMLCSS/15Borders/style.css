@@ -1,0 +1,24 @@
+thead{
+    background-color:midnightblue;
+    color:white;
+}
+
+footer{
+ margin-top:15%;   
+}
+
+#aliceblue{
+    background-color:AliceBlue;
+}
+
+#lightseagreen{
+    background-color:LightSeaGreen;
+}
+
+#orangered{
+    background-color:OrangeRed;
+}
+#dimgrey{background-color: dimgray;
+border-style: dashed;}
+#navajowhite{background-color: navajowhite;
+border-width: 100px;}
