@@ -2,34 +2,23 @@ ul{
     list-style:none; /* removes the bullet points*/
     display:inline-flex; /* allows the links to be next to each other*/
 }
-
-
-
 body{
     background-color:#92aa58;
     text-align:center; /* centers all of the elements in the body */
     color:#aa6458;
 }
-
 /** Styles for the "buttons" **/
-a{
+a{color: white;
+    background-color: #baaf5d;
     border: 7px groove #baaf5d; /* sets the border to make it look like a button */
     text-decoration:none; /* removes the underline from the link */
-   
-    
 }
 
 li{
     margin:10px; /* adds space between links */
     background-color:#58aa88;
     font-size: 24px;
-    color:#aa6458;
 }
-
 .featured{
-    
     font-size:64px;
-    
 }
-a{color: white;
-background-color: #baaf5d;}
