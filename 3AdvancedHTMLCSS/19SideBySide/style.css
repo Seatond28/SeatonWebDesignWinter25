@@ -1,0 +1,15 @@
+img{
+    height:250px;
+    width:250px;
+    
+
+    /* add a rule to float an img left */
+   
+}
+figcaption{border: 4px;
+border-style: solid;
+padding: 1em;
+margin: 1em;
+width: 50%;
+float: right;}
+/* add a rule for figcaption*/
