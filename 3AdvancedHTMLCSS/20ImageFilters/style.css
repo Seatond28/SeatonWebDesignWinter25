@@ -4,13 +4,16 @@
 
 
 
-
-
-
-
-
-
-
+.even{ filter: brightness(100px);
+    filter: invert(20);}
+.odd{filter: brightness(-100);
+    filter: invert(-20);}
+    #fajitas:hover{background-image:url(https://codehs.com/uploads/6243c1b771b83120b70770a16cef8209);}
+    #hummus:hover{background-image: url(“https://codehs.com/uploads/bc41c0188ad8c13fdf85a4b6c360cee4“);}
+    #massaman:hover{background-image: url(“https://codehs.com/uploads/0c5718b6da3ffb85901f6f18ea34d0ca“);}
+    #paella :hover{background-image: url(“https://codehs.com/uploads/4d2cd36f45267160b0db846606104ea0“);}
+    #pho:hover{background-image: url(“https://codehs.com/uploads/1929782939fb200100f4118e25bdca40“);} 
+    #pierogi:hover{background-image: url(“https://codehs.com/uploads/de4f6e02deb0087f1f5b1ad1a7dcaba8“);} 
 
 /* Put your styles ABOVE this line */
 div.platter{
@@ -18,7 +21,8 @@ div.platter{
     background-size:100% 100%;
     height:200px;
     width:200px;
-    background-image:url("https://codehs.com/uploads/89cf9fba5b5692f3062d7b671ace4feb");
+    background-image: url(https://codehs.com/uploads/89cf9fba5b5692f3062d7b671ace4feb);
+    
    
 }
 
@@ -49,7 +53,3 @@ ul{
 li{
     display:inline-flex; 
 }
-.even{ filter: brightness(100);
-    filter: invert(20);}
-.odd{filter: brightness(-100);
-    filter: invert(-20);}
