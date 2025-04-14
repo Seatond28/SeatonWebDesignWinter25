@@ -1,0 +1,34 @@
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+button {
+    background-color: #3399ff;
+    color: white;
+    border: none;
+    padding: 15px 35px;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 15px;
+    outline: none;
+}
+
+.unclickable{cursor: not-allowed;
+background-color: grey;}
+
+.clickable:hover {
+    background-color: #66b3ff; 
+}
+
+.clickable:active {
+    background-color: #0066cc; 
+}
+
+
+
+
+
+
+
+

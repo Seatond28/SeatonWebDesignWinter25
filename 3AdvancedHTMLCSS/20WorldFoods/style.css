@@ -3,23 +3,34 @@
 */
 
 /* Define the animation */
-@keyframes serve {
-    from {
-        height: 200px;
-        width: 200px;
-    }
-    to {
-        height: 400px;
-        width: 400px;
-    }
+/* Common styles for platter elements */
+.platter {
+    
+   
+    
+   
+    transition: 
+        width 2s ease,
+        height 2s ease,
+        background-image 2.5s ease,
+        transform 3s ease; 
 }
+
+
+.platter:hover {
+    width: 400px; 
+    height: 400px; 
+    transform: rotate(360deg); 
+   
+}
+
 
 
 .platter:hover {
     animation: serve 3s forwards;
 }
 
-.platter:hover .label{ visibility:visible; }
+
 .even{ filter: brightness(100px);
     filter: invert(20);}
 .odd{filter: brightness(-100);
