@@ -30,7 +30,7 @@
     animation: serve 3s forwards;
 }
 
-
+.platter:hover .label{ visibility:visible; }
 .even{ filter: brightness(100px);
     filter: invert(20);}
 .odd{filter: brightness(-100);
