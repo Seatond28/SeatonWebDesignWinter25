@@ -46,7 +46,7 @@ p {
 }
 
 img {
-    width: 400px;
+    width: 500px;
     height: 400px;
 }
 
@@ -57,8 +57,9 @@ img {
 }
 
 
-.image-container img:first-child {
+.image-container img:first-child{
     position: absolute;
+    
 }
 
 .image-container:hover img:first-child {
