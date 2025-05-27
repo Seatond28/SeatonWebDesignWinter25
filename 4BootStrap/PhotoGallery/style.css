@@ -26,12 +26,12 @@ a {
 }
 
 a:hover {
-    color: #6D7993;
+    color: #000000;
     ;
 }
 
 
-/* Homepage styles*/
+
 .cover {
     height: 300px;
     margin-top: 25%;
@@ -68,5 +68,5 @@ header {
     text-align: center;
     padding: 20px;
     background-color: purple;
-    color: blue;
+    color: red;
 }
